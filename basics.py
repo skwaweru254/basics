@@ -1,0 +1,3 @@
+basics = "basics"
+
+print(basics)
